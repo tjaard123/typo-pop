@@ -1,0 +1,10 @@
+C:\Users\TjaardduPlessis\git\Typo-PoP\bin\Debug\Typo-PoP.exe.config
+C:\Users\TjaardduPlessis\git\Typo-PoP\bin\Debug\Typo-PoP.exe
+C:\Users\TjaardduPlessis\git\Typo-PoP\bin\Debug\Typo-PoP.pdb
+C:\Users\TjaardduPlessis\git\Typo-PoP\obj\Debug\Typo-PoP.csprojResolveAssemblyReference.cache
+C:\Users\TjaardduPlessis\git\Typo-PoP\obj\Debug\Typo_PoP.Custom.resources
+C:\Users\TjaardduPlessis\git\Typo-PoP\obj\Debug\Typo_PoP.Form1.resources
+C:\Users\TjaardduPlessis\git\Typo-PoP\obj\Debug\Typo_PoP.Highscores.resources
+C:\Users\TjaardduPlessis\git\Typo-PoP\obj\Debug\Typo-PoP.csproj.GenerateResource.Cache
+C:\Users\TjaardduPlessis\git\Typo-PoP\obj\Debug\Typo-PoP.exe
+C:\Users\TjaardduPlessis\git\Typo-PoP\obj\Debug\Typo-PoP.pdb

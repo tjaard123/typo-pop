@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="Typo-PoP">
+</Property><Property Name="Solution File" Value="E:\Development\Typo-PoP\Typo-PoP.sln">
+</Property><Property Name="User Options File" Value="E:\Development\Typo-PoP\Typo-PoP.suo">
+</Property><Property Name="Date" Value="28 Oktober 2006">
+</Property><Property Name="Time" Value="09:12">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="Typo-PoP.sln" Description="File successfully backed up as E:\Development\Typo-PoP\Backup\Typo-PoP.sln">
+</Event><Event ErrorLevel="0" Project="" Source="Typo-PoP.suo" Description="File successfully backed up as E:\Development\Typo-PoP\Backup\Typo-PoP.suo">
+</Event><Event ErrorLevel="0" Project="Typo-PoP" Source="Typo-PoP.csproj" Description="Project file successfully backed up as E:\Development\Typo-PoP\Backup\Typo-PoP.csproj">
+</Event><Event ErrorLevel="0" Project="Typo-PoP" Source="Typo-PoP.csproj.user" Description="Project user file successfully backed up as E:\Development\Typo-PoP\Backup\Typo-PoP.csproj.user">
+</Event><Event ErrorLevel="0" Project="Typo-PoP" Source="AssemblyInfo.cs" Description="File successfully backed up as E:\Development\Typo-PoP\Backup\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="Typo-PoP" Source="Balloon.cs" Description="File successfully backed up as E:\Development\Typo-PoP\Backup\Balloon.cs">
+</Event><Event ErrorLevel="0" Project="Typo-PoP" Source="Custom.cs" Description="File successfully backed up as E:\Development\Typo-PoP\Backup\Custom.cs">
+</Event><Event ErrorLevel="0" Project="Typo-PoP" Source="Form1.cs" Description="File successfully backed up as E:\Development\Typo-PoP\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="Typo-PoP" Source="Highscores.cs" Description="File successfully backed up as E:\Development\Typo-PoP\Backup\Highscores.cs">
+</Event><Event ErrorLevel="0" Project="Typo-PoP" Source="MyRandom.cs" Description="File successfully backed up as E:\Development\Typo-PoP\Backup\MyRandom.cs">
+</Event><Event ErrorLevel="0" Project="Typo-PoP" Source="Player.cs" Description="File successfully backed up as E:\Development\Typo-PoP\Backup\Player.cs">
+</Event><Event ErrorLevel="0" Project="Typo-PoP" Source="Words.cs" Description="File successfully backed up as E:\Development\Typo-PoP\Backup\Words.cs">
+</Event><Event ErrorLevel="0" Project="Typo-PoP" Source="App.ico" Description="File successfully backed up as E:\Development\Typo-PoP\Backup\App.ico">
+</Event><Event ErrorLevel="0" Project="Typo-PoP" Source="Custom.resx" Description="File successfully backed up as E:\Development\Typo-PoP\Backup\Custom.resx">
+</Event><Event ErrorLevel="0" Project="Typo-PoP" Source="Form1.resx" Description="File successfully backed up as E:\Development\Typo-PoP\Backup\Form1.resx">
+</Event><Event ErrorLevel="0" Project="Typo-PoP" Source="Highscores.resx" Description="File successfully backed up as E:\Development\Typo-PoP\Backup\Highscores.resx">
+</Event><Event ErrorLevel="0" Project="Typo-PoP" Source="Typo-PoP.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="Typo-PoP" Source="Typo-PoP.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="Typo-PoP.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="Typo-PoP.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="Typo-PoP" Source="Typo-PoP.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

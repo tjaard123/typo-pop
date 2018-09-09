@@ -1,0 +1,2 @@
+obj\Debug\Typo-PoP.exe
+obj\Debug\Typo-PoP.pdb
